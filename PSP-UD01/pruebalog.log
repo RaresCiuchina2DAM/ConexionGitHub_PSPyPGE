@@ -1,0 +1,6 @@
+[2022-10-18 09:59:39,151] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD01\\pruebalog.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-18 09:59:39,152] DEBUG    MainThread   - Log para debug
+[2022-10-18 09:59:39,152] INFO     MainThread   - Log para info
+[2022-10-18 09:59:39,152] WARNING  MainThread   - Log para warning
+[2022-10-18 09:59:39,152] ERROR    MainThread   - Log para error
+[2022-10-18 09:59:39,153] CRITICAL MainThread   - Lof para fatal

@@ -1,0 +1,129 @@
+[2022-10-20 09:31:41,822] DEBUG    MainThread   - Configuraciï¿½n de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:31:41,822] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:31:42,843] DEBUG    MainThread   - El jugador 3 ha esperado 1
+[2022-10-20 09:31:43,834] DEBUG    MainThread   - El jugador 9 ha esperado 2
+[2022-10-20 09:31:44,847] DEBUG    MainThread   - El jugador 2 ha esperado 3
+[2022-10-20 09:31:44,847] DEBUG    MainThread   - El jugador 5 ha esperado 3
+[2022-10-20 09:31:44,847] DEBUG    MainThread   - El jugador 8 ha esperado 3
+[2022-10-20 09:31:44,848] DEBUG    MainThread   - El jugador 0 ha esperado 3
+[2022-10-20 09:31:44,848] DEBUG    MainThread   - El jugador 7 ha esperado 3
+[2022-10-20 09:31:45,849] DEBUG    MainThread   - El jugador 1 ha esperado 4
+[2022-10-20 09:31:45,850] DEBUG    MainThread   - El jugador 6 ha esperado 4
+[2022-10-20 09:31:45,850] DEBUG    MainThread   - El jugador 4 ha esperado 4
+[2022-10-20 09:31:45,851] INFO     MainThread   - Resultados ordenados por id: 4
+[2022-10-20 09:31:45,852] DEBUG    MainThread   - Final del programa de programa
+[2022-10-20 09:32:30,920] DEBUG    MainThread   - Configuraciï¿½n de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:32:30,920] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:32:31,937] DEBUG    MainThread   - El jugador 0 ha esperado 1
+[2022-10-20 09:32:31,937] DEBUG    MainThread   - El jugador 5 ha esperado 1
+[2022-10-20 09:32:31,938] DEBUG    MainThread   - El jugador 1 ha esperado 1
+[2022-10-20 09:32:31,938] DEBUG    MainThread   - El jugador 3 ha esperado 1
+[2022-10-20 09:32:33,926] DEBUG    MainThread   - El jugador 9 ha esperado 3
+[2022-10-20 09:32:34,928] DEBUG    MainThread   - El jugador 4 ha esperado 4
+[2022-10-20 09:32:34,928] DEBUG    MainThread   - El jugador 7 ha esperado 4
+[2022-10-20 09:32:35,938] DEBUG    MainThread   - El jugador 2 ha esperado 5
+[2022-10-20 09:32:35,938] DEBUG    MainThread   - El jugador 6 ha esperado 5
+[2022-10-20 09:32:35,938] DEBUG    MainThread   - El jugador 8 ha esperado 5
+[2022-10-20 09:32:35,939] INFO     MainThread   - Resultados ordenados por id: 8
+[2022-10-20 09:32:35,940] DEBUG    MainThread   - Final del programa de programa
+[2022-10-20 09:33:23,133] DEBUG    MainThread   - Configuraciï¿½n de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:33:23,133] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:33:23,135] DEBUG    MainThread   - El jugador 8 ha esperado 0
+[2022-10-20 09:33:24,139] DEBUG    MainThread   - El jugador 2 ha esperado 1
+[2022-10-20 09:33:26,150] DEBUG    MainThread   - El jugador 3 ha esperado 3
+[2022-10-20 09:33:26,150] DEBUG    MainThread   - El jugador 4 ha esperado 3
+[2022-10-20 09:33:26,150] DEBUG    MainThread   - El jugador 9 ha esperado 3
+[2022-10-20 09:33:26,151] DEBUG    MainThread   - El jugador 7 ha esperado 3
+[2022-10-20 09:33:27,146] DEBUG    MainThread   - El jugador 0 ha esperado 4
+[2022-10-20 09:33:27,146] DEBUG    MainThread   - El jugador 1 ha esperado 4
+[2022-10-20 09:33:28,137] DEBUG    MainThread   - El jugador 6 haad espero 5
+[2022-10-20 09:33:28,137] DEBUG    MainThread   - El jugador 5 ha e sperado5
+[2022-10-20 09:33:28,137] INFO     MainThread   - Resultados ordenados por id: [10, 2, 2, 6, 4, 6, 6, 4, 6, 6]
+[2022-10-20 09:33:28,139] DEBUG    MainThread   - Final del programa de programa
+[2022-10-20 09:38:21,065] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:38:21,065] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:38:21,066] DEBUG    MainThread   - El jugador 3 ha esperado 0
+[2022-10-20 09:38:22,077] DEBUG    MainThread   - El jugador 2 ha esperado 1
+[2022-10-20 09:38:22,077] DEBUG    MainThread   - El jugador 7 ha esperado 1
+[2022-10-20 09:38:23,067] DEBUG    MainThread   - El jugador 1 ha esperado 2
+[2022-10-20 09:38:23,067] DEBUG    MainThread   - El jugador 8 ha esperado 2
+[2022-10-20 09:38:23,068] DEBUG    MainThread   - El jugador 9 ha esperado 2
+[2022-10-20 09:38:24,075] DEBUG    MainThread   - El jugador 4 ha esperado 3
+[2022-10-20 09:38:25,087] DEBUG    MainThread   - El jugador 6 ha esperado 4
+[2022-10-20 09:38:25,089] DEBUG    MainThread   - El jugador 5 ha esperado 4
+[2022-10-20 09:38:25,090] DEBUG    MainThread   - El jugador 0 ha esperado 4
+[2022-10-20 09:38:25,090] INFO     MainThread   - Resultados ordenados por id: [12, 4, 6, 4, 2, 4, 10, 10, 2, 10]
+[2022-10-20 09:38:25,092] DEBUG    MainThread   - Final del programa
+[2022-10-20 09:38:39,172] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:38:39,173] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:38:40,183] DEBUG    MainThread   - El jugador 0 ha esperado 1
+[2022-10-20 09:38:41,197] DEBUG    MainThread   - El jugador 6 ha esperado 2
+[2022-10-20 09:38:41,197] DEBUG    MainThread   - El jugador 1 ha esperado 2
+[2022-10-20 09:38:43,188] DEBUG    MainThread   - El jugador 2 ha esperado 4
+[2022-10-20 09:38:43,188] DEBUG    MainThread   - El jugador 8 ha esperado 4
+[2022-10-20 09:38:46,188] DEBUG    MainThread   - El jugador 5 ha esperado 7
+[2022-10-20 09:38:46,188] DEBUG    MainThread   - El jugador 4 ha esperado 7
+[2022-10-20 09:38:46,188] DEBUG    MainThread   - El jugador 3 ha esperado 7
+[2022-10-20 09:38:47,177] DEBUG    MainThread   - El jugador 9 ha esperado 8
+[2022-10-20 09:38:51,178] DEBUG    MainThread   - El jugador 7 ha esperado 12
+[2022-10-20 09:38:51,178] INFO     MainThread   - Resultados ordenados por id: [10, 6, 2, 6, 8, 2, 6, 4, 10, 10]
+[2022-10-20 09:38:51,179] DEBUG    MainThread   - Final del programa
+[2022-10-20 09:39:41,669] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:39:41,669] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:39:43,679] DEBUG    MainThread   - El jugador 7 ha esperado 2
+[2022-10-20 09:39:43,679] DEBUG    MainThread   - El jugador 8 ha esperado 2
+[2022-10-20 09:39:44,686] DEBUG    MainThread   - El jugador 6 ha esperado 3
+[2022-10-20 09:39:44,686] DEBUG    MainThread   - El jugador 1 ha esperado 3
+[2022-10-20 09:39:44,687] DEBUG    MainThread   - El jugador 3 ha esperado 3
+[2022-10-20 09:39:45,686] DEBUG    MainThread   - El jugador 9 ha esperado 4
+[2022-10-20 09:39:49,700] DEBUG    MainThread   - El jugador 2 ha esperado 8
+[2022-10-20 09:39:50,694] DEBUG    MainThread   - El jugador 5 ha esperado 9
+[2022-10-20 09:39:54,679] DEBUG    MainThread   - El jugador 0 ha esperado 13
+[2022-10-20 09:39:55,681] DEBUG    MainThread   - El jugador 4 ha esperado 14
+[2022-10-20 09:39:55,681] INFO     MainThread   - Resultados ordenados por id: [2, 2, 2, 10, 12, 12, 8, 12, 12, 10]
+[2022-10-20 09:39:55,682] DEBUG    MainThread   - Final del programa
+[2022-10-20 09:42:37,027] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:42:37,028] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:42:37,076] DEBUG    MainThread   - El jugador 0 ha esperado 0.0436
+[2022-10-20 09:42:37,636] DEBUG    MainThread   - El jugador 8 ha esperado 0.5923
+[2022-10-20 09:42:37,827] DEBUG    MainThread   - El jugador 9 ha esperado 0.7976
+[2022-10-20 09:42:38,558] DEBUG    MainThread   - El jugador 1 ha esperado 1.5367
+[2022-10-20 09:42:39,171] DEBUG    MainThread   - El jugador 6 ha esperado 2.1423
+[2022-10-20 09:42:40,065] DEBUG    MainThread   - El jugador 5 ha esperado 3.0399
+[2022-10-20 09:42:40,626] DEBUG    MainThread   - El jugador 3 ha esperado 3.5946
+[2022-10-20 09:42:41,353] DEBUG    MainThread   - El jugador 2 ha esperado 4.3335
+[2022-10-20 09:42:41,430] DEBUG    MainThread   - El jugador 7 ha esperado 4.3976
+[2022-10-20 09:42:41,834] DEBUG    MainThread   - El jugador 4 ha esperado 4.7961
+[2022-10-20 09:42:41,835] INFO     MainThread   - Resultados ordenados por id: [4, 2, 10, 8, 4, 2, 12, 4, 2, 8]
+[2022-10-20 09:42:41,836] DEBUG    MainThread   - Final del programa
+[2022-10-20 09:44:19,440] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:44:19,440] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:44:19,512] DEBUG    MainThread   - El jugador 0 ha esperado 0.0649
+[2022-10-20 09:44:20,151] DEBUG    MainThread   - El jugador 7 ha esperado 0.6888
+[2022-10-20 09:44:20,263] DEBUG    MainThread   - El jugador 2 ha esperado 0.8011
+[2022-10-20 09:44:20,825] DEBUG    MainThread   - El jugador 9 ha esperado 1.3597
+[2022-10-20 09:44:21,282] DEBUG    MainThread   - El jugador 1 ha esperado 1.8309
+[2022-10-20 09:44:21,498] DEBUG    MainThread   - El jugador 3 ha esperado 2.0445
+[2022-10-20 09:44:23,000] DEBUG    MainThread   - El jugador 10 ha esperado 3.5465
+[2022-10-20 09:44:23,079] DEBUG    MainThread   - El jugador 5 ha esperado 3.6392
+[2022-10-20 09:44:23,406] DEBUG    MainThread   - El jugador 8 ha esperado 3.9604
+[2022-10-20 09:44:23,844] DEBUG    MainThread   - El jugador 4 ha esperado 4.4015
+[2022-10-20 09:44:24,095] DEBUG    MainThread   - El jugador 6 ha esperado 4.6507
+[2022-10-20 09:44:24,095] INFO     MainThread   - Resultados ordenados por id: [4, 10, 12, 6, 6, 4, 4, 12, 10, 8, 8]
+[2022-10-20 09:44:24,097] DEBUG    MainThread   - Final del programa
+[2022-10-20 09:45:07,688] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:45:07,689] DEBUG    MainThread   - Inicio de programa
+[2022-10-20 09:45:08,522] DEBUG    MainThread   - El jugador 4 ha esperado 0.8186
+[2022-10-20 09:45:09,217] DEBUG    MainThread   - El jugador 0 ha esperado 1.5224
+[2022-10-20 09:45:09,327] DEBUG    MainThread   - El jugador 5 ha esperado 1.6295
+[2022-10-20 09:45:09,731] DEBUG    MainThread   - El jugador 8 ha esperado 2.0318
+[2022-10-20 09:45:10,317] DEBUG    MainThread   - El jugador 1 ha esperado 2.6037
+[2022-10-20 09:45:10,996] DEBUG    MainThread   - El jugador 9 ha esperado 3.3026
+[2022-10-20 09:45:11,383] DEBUG    MainThread   - El jugador 6 ha esperado 3.676
+[2022-10-20 09:45:11,413] DEBUG    MainThread   - El jugador 3 ha esperado 3.7121
+[2022-10-20 09:45:11,766] DEBUG    MainThread   - El jugador 2 ha esperado 4.06
+[2022-10-20 09:45:12,553] DEBUG    MainThread   - El jugador 7 ha esperado 4.8554
+[2022-10-20 09:45:12,553] INFO     MainThread   - Resultados ordenados por id: [8, 4, 2, 10, 10, 2, 8, 10, 4, 4]
+[2022-10-20 09:45:12,554] DEBUG    MainThread   - Final del programa
+[2022-10-20 09:46:49,627] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSG PRUEBA\\PSP-UD03\\ejercicioclase.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-20 09:46:49,628] DEBUG    MainThread   - Inicio de programa
