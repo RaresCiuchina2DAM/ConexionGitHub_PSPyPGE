@@ -1,0 +1,23 @@
+---
+version: 1
+formatters:
+  standard:
+    comment_format: "[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s"
+    format: "[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s"
+handlers:
+  file:
+    level: DEBUG
+    class: logging.FileHandler
+    formatter: standard
+    encoding: 'utf-8'
+  stream:
+    level: DEBUG
+    class: logging.StreamHandler
+    formatter: standard 
+loggers:
+  "":
+    handlers:
+      - file
+      - stream
+    level: DEBUG
+...
