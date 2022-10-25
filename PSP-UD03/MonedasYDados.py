@@ -19,19 +19,19 @@ libroDeDiccionarios = {"Resultado": {
 # Variables globales que utilizaremos:
 moneda = ["cara", "cruz"]
 DESDE = 1
-HASTA = 6 + 1
-dado = [x for x in range(DESDE, HASTA)]
+HASTA = 6
+dado = [x for x in range(DESDE, HASTA+1)]
 nVeces = 1_000_000
 ntiradas = 10
 cuantasVecesTiramosDadosPorExperimento = 3
 
 # Inicialización de los diccionarios
 # Las variables no funcionan en el rango
-for x in range(11):
+for x in range(0,ntiradas+1):
     libroDeDiccionarios["Resultado"]["Moneda"]["vecesCaras"][x] = 0
     libroDeDiccionarios["Resultado"]["Moneda"]["vecesCruces"][x] = 0
 
-for x in range(3, 19):
+for x in range(DESDE*cuantasVecesTiramosDadosPorExperimento,(HASTA*3)+1):
     libroDeDiccionarios["Resultado"]["ResultadoDados"][x] = 0
 
 

@@ -1,0 +1,38 @@
+[2022-10-21 12:58:06,078] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSE\\sets.log'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-21 12:58:06,078] DEBUG    MainThread   - Programa iniciado
+[2022-10-21 12:58:06,078] INFO     MainThread   - Empiezo a crear una lista
+[2022-10-21 12:58:07,349] INFO     MainThread   - Acabo de crear la lista con tamaño 1000000
+[2022-10-21 13:00:05,303] INFO     MainThread   - La lista de excluidos tiene 6 elementos
+[2022-10-21 13:00:05,303] INFO     MainThread   - Empiezo a crear un conjunto
+[2022-10-21 13:00:06,654] INFO     MainThread   - Acabo de crear el conjunto con tamaño 99994
+[2022-10-21 13:00:06,665] INFO     MainThread   - El conjunto de excluidos tiene 6 elementos
+[2022-10-21 13:00:06,680] DEBUG    MainThread   - Programa finalizado
+[2022-10-21 13:09:08,930] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSE\\sets.log'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-21 13:09:08,931] DEBUG    MainThread   - Programa iniciado
+[2022-10-21 13:09:08,931] INFO     MainThread   - Empiezo a crear una lista
+[2022-10-21 13:09:10,174] INFO     MainThread   - Acabo de crear la lista con tamaño 1000000
+[2022-10-21 13:11:03,425] INFO     MainThread   - La lista de excluidos tiene 2 elementos
+[2022-10-21 13:11:03,426] INFO     MainThread   - Empiezo a crear un conjunto
+[2022-10-21 13:11:04,707] INFO     MainThread   - Acabo de crear el conjunto con tamaño 99998
+[2022-10-21 13:11:04,715] INFO     MainThread   - El conjunto de excluidos tiene 2 elementos
+[2022-10-21 13:11:04,726] DEBUG    MainThread   - Programa finalizado
+[2022-10-21 13:15:58,548] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSE\\sets.log'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-21 13:15:58,548] DEBUG    MainThread   - Programa iniciado
+[2022-10-21 13:15:58,548] INFO     MainThread   - Empiezo a crear una lista
+[2022-10-21 13:15:59,809] INFO     MainThread   - Acabo de crear la lista con tamaño 1000000
+[2022-10-21 13:16:10,866] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSE\\sets.log'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-21 13:16:10,866] DEBUG    MainThread   - Programa iniciado
+[2022-10-21 13:16:10,866] INFO     MainThread   - Empiezo a crear una lista
+[2022-10-21 13:16:19,864] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSE\\sets.log'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-21 13:16:19,865] DEBUG    MainThread   - Programa iniciado
+[2022-10-21 13:16:19,865] INFO     MainThread   - Empiezo a crear una lista
+[2022-10-21 13:16:21,126] INFO     MainThread   - Acabo de crear la lista con tamaño 1000000
+[2022-10-21 13:18:18,684] INFO     MainThread   - La lista de excluidos tiene 3 elementos
+[2022-10-21 13:18:18,684] INFO     MainThread   - Empiezo a crear un conjunto
+[2022-10-21 13:18:19,937] INFO     MainThread   - Acabo de crear el conjunto con tamaño 99991
+[2022-10-21 13:18:19,947] INFO     MainThread   - El conjunto de excluidos tiene 9 elementos
+[2022-10-21 13:18:19,961] DEBUG    MainThread   - Programa finalizado
+[2022-10-21 13:19:07,010] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSE\\sets.log'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-21 13:19:07,010] DEBUG    MainThread   - Programa iniciado
+[2022-10-21 13:19:07,010] INFO     MainThread   - Empiezo a crear una lista
+[2022-10-21 13:19:08,283] INFO     MainThread   - Acabo de crear la lista con tamaño 1000000

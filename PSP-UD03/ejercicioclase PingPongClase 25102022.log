@@ -1,0 +1,41 @@
+[2022-10-25 10:13:24,846] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSP-UD03\\ejercicioclase PingPongClase 25102022.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-25 10:13:24,846] DEBUG    MainThread   - Inicio de programa
+[2022-10-25 10:13:48,515] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSP-UD03\\ejercicioclase PingPongClase 25102022.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-25 10:13:48,515] DEBUG    MainThread   - Inicio de programa
+[2022-10-25 10:14:18,522] DEBUG    MainThread   - Fin de programa
+[2022-10-25 10:14:42,738] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSP-UD03\\ejercicioclase PingPongClase 25102022.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-25 10:14:42,739] DEBUG    MainThread   - Inicio de programa
+[2022-10-25 10:15:04,728] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSP-UD03\\ejercicioclase PingPongClase 25102022.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-25 10:15:04,728] DEBUG    MainThread   - Inicio de programa
+[2022-10-25 10:15:11,020] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\PSP-UD03\\ejercicioclase PingPongClase 25102022.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-25 10:15:11,020] DEBUG    MainThread   - Inicio de programa
+[2022-10-25 10:15:12,033] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:13,040] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:14,043] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:15,047] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:16,057] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:17,058] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:18,071] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:19,074] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:20,077] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:21,086] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:22,094] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:23,096] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:24,108] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:25,115] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:26,126] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:27,126] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:28,138] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:29,142] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:30,147] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:31,149] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:32,154] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:33,161] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:34,161] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:35,175] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:36,183] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:37,192] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:38,198] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:39,199] INFO     MainThread   - Pong esta recibido
+[2022-10-25 10:15:40,207] INFO     MainThread   - Ping esta recibido
+[2022-10-25 10:15:41,028] DEBUG    MainThread   - Fin de programa
