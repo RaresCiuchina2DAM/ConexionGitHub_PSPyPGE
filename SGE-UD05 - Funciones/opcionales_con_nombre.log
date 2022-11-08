@@ -1,0 +1,32 @@
+[2022-10-26 10:06:36,154] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\SGE-UD05 - Funciones\\opcionales_con_nombre.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-26 10:06:36,154] DEBUG    MainThread   - Comienzo de programa
+[2022-10-26 10:06:36,154] INFO     MainThread   - Hola, Cristina
+[2022-10-26 10:06:36,154] INFO     MainThread   - Hola, Irene
+[2022-10-26 10:06:36,154] INFO     MainThread   - Hola, Mayte
+[2022-10-26 10:06:36,154] INFO     MainThread   - Hola, Manolo
+[2022-10-26 10:06:36,155] INFO     MainThread   - Hola, Equipo
+[2022-10-26 10:06:36,155] DEBUG    MainThread   - Fin de programa
+[2022-10-26 10:15:03,626] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\SGE-UD05 - Funciones\\opcionales_con_nombre.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-26 10:15:03,626] DEBUG    MainThread   - Comienzo de programa
+[2022-10-26 10:15:03,627] INFO     MainThread   - Hola, Cristina
+[2022-10-26 10:15:03,627] INFO     MainThread   - Hola, Irene
+[2022-10-26 10:15:03,627] INFO     MainThread   - Hola, Mayte
+[2022-10-26 10:15:03,627] INFO     MainThread   - Hola, Manolo
+[2022-10-26 10:15:03,627] INFO     MainThread   - Hola, Equipo
+[2022-10-26 10:15:03,627] DEBUG    MainThread   - Fin de programa
+[2022-10-26 10:16:51,632] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\SGE-UD05 - Funciones\\opcionales_con_nombre.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-26 10:16:51,632] DEBUG    MainThread   - Comienzo de programa
+[2022-10-26 10:16:51,632] INFO     MainThread   - Hola, Cristina
+[2022-10-26 10:16:51,632] INFO     MainThread   - Hola, Irene
+[2022-10-26 10:16:51,633] INFO     MainThread   - Hola, Mayte
+[2022-10-26 10:16:51,633] INFO     MainThread   - Hola, Manolo
+[2022-10-26 10:16:51,633] INFO     MainThread   - Hola, Equipo
+[2022-10-26 10:16:51,633] DEBUG    MainThread   - Fin de programa
+[2022-10-26 10:17:04,621] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\PSP PRUEBA\\SGE-UD05 - Funciones\\opcionales_con_nombre.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-26 10:17:04,621] DEBUG    MainThread   - Comienzo de programa
+[2022-10-26 10:17:04,622] INFO     MainThread   - Hola, Cristina
+[2022-10-26 10:17:04,622] INFO     MainThread   - Hola, Irene
+[2022-10-26 10:17:04,622] INFO     MainThread   - Hola, Mayte
+[2022-10-26 10:17:04,622] INFO     MainThread   - Hola, Manolo
+[2022-10-26 10:17:04,622] INFO     MainThread   - Hola, Equipo
+[2022-10-26 10:17:04,622] DEBUG    MainThread   - Fin de programa
