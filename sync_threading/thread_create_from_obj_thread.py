@@ -4,12 +4,10 @@ import time
 import threading
 import random
 
-
 def thread_worker():
     logging.info("Thread iniciado")
-    time.sleep(random.random() * 10)
+    time.sleep(random.random()*10)
     logging.info("Acabando el thread")
-
 
 def main():
     threads = [threading.Thread(target=thread_worker) for _ in range(10)]
@@ -20,8 +18,7 @@ def main():
             if not t.is_alive():
                 t.join()
                 threads.remove(t)
-    logging.info("Todas las tareas han acabado")
-
+    logging.info("Todas las tareas han acabado")   
 
 if __name__ == "__main__":
     logcfg(__file__)

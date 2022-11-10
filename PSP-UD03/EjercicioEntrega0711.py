@@ -5,7 +5,7 @@ import random
 from util import logcfg
 
 
-# Fabricar las partes del coche que deeemos(ruedas, motor o chasis como objeto)
+# Fabricar las partes del coche que deesemos(ruedas, motor o chasis como objeto)
 async def fabPartes(entradaFabrica, objeto):
     while True:
         await asyncio.sleep(random.randint(0, 1))
@@ -61,6 +61,10 @@ async def main():
     t3 = asyncio.create_task(fabPartes(entradaFabrica, "ruedas"))
     # Creamos la tarea para fabricar los coches
     t4 = asyncio.create_task(fabricaCoches(entradaFabrica, salidaFabrica))
+    # Creamos la tarea para el concesionario, que contiene
+    # el bucle infinito para recoger los coches
+    # y mostrar el mensaje de "Coche en Concesionario"
+    t5 = asyncio.create_task(concesionario(salidaFabrica))
 
     # Paramos todas las tareas creadas anteriormente, tras 30 seg de ejecucion
     await asyncio.sleep(30)
@@ -69,10 +73,7 @@ async def main():
     t3.cancel()
     t4.cancel()
 
-    # Creamos la tarea para el concesionario, que contiene
-    # el bucle infinito para recoger los coches
-    # y mostrar el mensaje de "Coche en Concesionario"
-    t5 = asyncio.create_task(concesionario(salidaFabrica))
+
 
 
 if __name__ == "__main__":

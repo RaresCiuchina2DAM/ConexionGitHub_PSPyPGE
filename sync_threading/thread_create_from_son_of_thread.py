@@ -4,15 +4,14 @@ import time
 import threading
 import random
 
-
-def thread_worker():
-    logging.info("Thread iniciado")
-    time.sleep(random.random() * 10)
-    logging.info("Acabando el thread")
-
+class ThreadWorker(threading.Thread):
+    def run(self):
+        logging.info("Thread iniciado")
+        time.sleep(random.random()*10)
+        logging.info("Acabando el thread")
 
 def main():
-    threads = [threading.Thread(target=thread_worker) for _ in range(10)]
+    threads = [ThreadWorker() for _ in range(10)]
     for t in threads: t.start()
     while threads:
         time.sleep(0.2)
@@ -20,8 +19,7 @@ def main():
             if not t.is_alive():
                 t.join()
                 threads.remove(t)
-    logging.info("Todas las tareas han acabado")
-
+    logging.info("Todas las tareas han acabado")   
 
 if __name__ == "__main__":
     logcfg(__file__)

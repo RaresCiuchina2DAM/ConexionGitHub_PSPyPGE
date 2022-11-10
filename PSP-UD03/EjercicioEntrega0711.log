@@ -2205,3 +2205,213 @@
 [2022-11-08 10:21:07,881] INFO     MainThread   - Coche en Concesionario
 [2022-11-08 10:21:07,881] INFO     MainThread   - Coche en Concesionario
 [2022-11-08 10:21:07,883] DEBUG    MainThread   - Fin de programa
+[2022-11-10 10:15:40,943] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\ConexionGitHub_PSPyPGE\\PSP-UD03\\EjercicioEntrega0711.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-11-10 10:15:40,963] DEBUG    MainThread   - Inicio de programa
+[2022-11-10 10:15:41,971] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:42,986] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:43,999] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:45,011] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:46,014] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:47,021] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:48,027] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:48,027] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:49,029] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:49,029] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:50,049] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:51,075] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:51,075] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:51,075] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:51,075] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:52,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:52,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:52,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:52,089] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:53,102] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:53,102] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:54,104] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:55,118] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:55,118] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:56,123] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:56,123] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:58,087] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:59,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:15:59,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:00,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:00,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:00,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:00,088] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:00,089] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:02,115] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:02,115] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:03,131] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:04,146] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:05,158] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:05,158] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:05,159] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:06,161] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:07,164] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:07,164] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:07,165] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:07,165] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:07,165] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:09,180] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:09,180] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:09,181] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:10,182] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:16:10,962] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,962] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,963] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,963] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,963] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,963] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,963] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,964] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,964] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,964] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,964] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,964] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,965] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,965] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,965] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,965] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,965] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,966] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,966] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,966] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,966] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,966] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,967] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,967] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,967] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,967] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,967] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,968] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,968] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,968] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,968] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,968] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,969] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,969] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,969] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,969] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,969] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,970] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,970] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,970] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,970] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,970] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,971] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,971] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,971] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,971] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,971] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,972] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,972] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,972] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,972] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:16:10,974] DEBUG    MainThread   - Fin de programa
+[2022-11-10 10:20:16,394] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'filename': 'C:\\Users\\AlumnoM\\ConexionGitHub_PSPyPGE\\PSP-UD03\\EjercicioEntrega0711.log', 'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard'}, 'stream': {'level': 'DEBUG', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-11-10 10:20:16,395] DEBUG    MainThread   - Inicio de programa
+[2022-11-10 10:20:16,396] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:16,396] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:18,403] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:18,403] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:19,404] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:19,404] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:19,405] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:19,405] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:20,431] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:20,431] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:20,431] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:20,432] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:21,447] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:21,447] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:22,454] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:22,454] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:22,454] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:22,455] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:22,455] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:22,455] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:22,455] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:22,456] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:22,456] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:22,456] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:22,456] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:22,457] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:22,457] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:22,457] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:22,457] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:22,458] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:23,463] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:23,463] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:23,463] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:23,463] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:24,467] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:24,467] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:24,467] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:24,468] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:25,456] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:25,456] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:26,480] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:26,480] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:26,480] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:26,481] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:26,481] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:26,481] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:27,488] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:27,488] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:29,514] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:29,514] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:30,514] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:30,514] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:31,542] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:31,542] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:32,559] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:32,559] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:32,559] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:32,560] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:32,560] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:32,560] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:32,560] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:32,561] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:33,561] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:33,561] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:34,574] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:34,574] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:34,574] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:34,575] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:34,575] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:34,575] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:36,598] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:36,598] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:36,598] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:36,599] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:36,599] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:36,599] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:37,616] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:37,616] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:38,623] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:38,623] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:38,623] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:38,624] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:40,634] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:40,634] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:40,634] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:40,634] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:40,634] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:40,635] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:41,651] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:41,651] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:42,655] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:42,655] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:42,655] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:42,656] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:42,656] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:42,656] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:42,657] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:42,657] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:44,690] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:44,690] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:45,702] INFO     MainThread   - Coche Fabricado
+[2022-11-10 10:20:45,702] INFO     MainThread   - Coche en Concesionario
+[2022-11-10 10:20:46,399] DEBUG    MainThread   - Fin de programa
