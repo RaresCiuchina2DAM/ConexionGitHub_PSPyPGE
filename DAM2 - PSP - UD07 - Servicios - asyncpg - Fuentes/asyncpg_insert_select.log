@@ -1,0 +1,4 @@
+[2023-02-09 09:01:29,080] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'c:\\Users\\AlumnoM\\Downloads\\DAM2 - PSP - UD07 - Servicios - asyncpg - Fuentes\\asyncpg_insert_select.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2023-02-09 09:01:29,215] INFO     MainThread   - bramd_id: 1,  brand_name: Levis
+[2023-02-09 09:01:29,232] INFO     MainThread   - bramd_id: 2,  brand_name: Seven
+[2023-02-09 09:01:29,238] INFO     MainThread   - El programa ha tardado 0:00:00.162065

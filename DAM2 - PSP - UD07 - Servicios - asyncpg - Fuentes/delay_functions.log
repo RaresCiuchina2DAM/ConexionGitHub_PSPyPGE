@@ -1,0 +1,7 @@
+[2022-10-08 21:15:33,378] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'c:\\Users\\jmrob\\OneDrive\\CESAfuera\\2022-2023\\DAM2-PSP\\Desarrollo\\Python\\util\\delay_functions.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-10-08 21:15:33,379] INFO     MainThread   - Comienza programa
+[2022-10-08 21:15:33,382] DEBUG    MainThread   - Durmiendo durante 2 segundo(s)
+[2022-10-08 21:15:35,398] DEBUG    MainThread   - Sueño finalizado de  2 segundo(s)
+[2022-10-08 21:15:35,401] DEBUG    MainThread   - Durmiendo durante 3 segundo(s)
+[2022-10-08 21:15:38,410] DEBUG    MainThread   - Sueño finalizado de  3 segundo(s)
+[2022-10-08 21:15:38,413] INFO     MainThread   - Finaliza programa

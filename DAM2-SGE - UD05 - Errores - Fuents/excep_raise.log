@@ -1,0 +1,22 @@
+[2022-11-11 13:26:33,625] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\ConexionGitHub_PSPyPGE\\DAM2-SGE - UD05 - Errores - Fuents\\excep_raise.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-11-11 13:26:33,626] DEBUG    MainThread   - Comienzo de programa
+[2022-11-11 13:26:37,078] ERROR    MainThread   - Error de valor: invalid literal for int() with base 10: 'gf'
+[2022-11-11 13:26:37,078] INFO     MainThread   - Código que se ejecuta con o sin excepciones
+[2022-11-11 13:26:37,078] DEBUG    MainThread   - Fin de programa
+[2022-11-11 13:36:01,954] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\ConexionGitHub_PSPyPGE\\DAM2-SGE - UD05 - Errores - Fuents\\excep_raise.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-11-11 13:36:01,962] DEBUG    MainThread   - Comienzo de programa
+[2022-11-11 13:36:04,802] INFO     MainThread   - 0
+[2022-11-11 13:36:04,803] INFO     MainThread   - 1
+[2022-11-11 13:36:04,803] INFO     MainThread   - 2
+[2022-11-11 13:36:04,803] INFO     MainThread   - 3
+[2022-11-11 13:36:04,803] INFO     MainThread   - 4
+[2022-11-11 13:36:04,803] INFO     MainThread   - 5
+[2022-11-11 13:36:04,803] INFO     MainThread   - Código que se ejecuta con o sin excepciones
+[2022-11-11 13:36:21,515] DEBUG    MainThread   - Configuración de debug: {'version': 1, 'formatters': {'standard': {'comment_format': '[%(asctime)s] %(levelname)-8s %(name)-12s %(threadName)-12s - %(message)s', 'format': '[%(asctime)s] %(levelname)-8s %(threadName)-12s - %(message)s'}}, 'handlers': {'file': {'level': 'DEBUG', 'class': 'logging.FileHandler', 'formatter': 'standard', 'encoding': 'utf-8', 'filename': 'C:\\Users\\AlumnoM\\ConexionGitHub_PSPyPGE\\DAM2-SGE - UD05 - Errores - Fuents\\excep_raise.log'}, 'stream': {'level': 'INFO', 'class': 'logging.StreamHandler', 'formatter': 'standard'}}, 'loggers': {'': {'handlers': ['file', 'stream'], 'level': 'DEBUG'}}}
+[2022-11-11 13:36:21,516] DEBUG    MainThread   - Comienzo de programa
+[2022-11-11 13:36:24,943] INFO     MainThread   - 0
+[2022-11-11 13:36:24,943] INFO     MainThread   - 1
+[2022-11-11 13:36:24,943] INFO     MainThread   - 2
+[2022-11-11 13:36:24,944] INFO     MainThread   - 3
+[2022-11-11 13:36:24,944] INFO     MainThread   - 4
+[2022-11-11 13:36:24,944] INFO     MainThread   - Código que se ejecuta con o sin excepciones
